@@ -31,6 +31,7 @@ const RegisterPage = () => {
         }
         else{
             alert("Please enter a valid email format.")
+            console.log("test")
         }
     }
     return (
